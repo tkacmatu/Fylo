@@ -1,0 +1,2 @@
+build/CDedup.o: src/CDedup.cpp src/CDedup.h src/COperation.h \
+  src/CSymbolicLink.h src/CFile.h

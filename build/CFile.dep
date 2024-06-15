@@ -1,0 +1,1 @@
+build/CFile.o: src/CFile.cpp src/CFile.h src/COperation.h

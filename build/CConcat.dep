@@ -1,0 +1,2 @@
+build/CConcat.o: src/CConcat.cpp src/CConcat.h src/COperation.h \
+  src/CFolder.h src/CFile.h

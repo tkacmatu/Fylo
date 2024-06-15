@@ -1,0 +1,847 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakePresetLoader">{
+  &quot;useNewFormat&quot;: true
+}</component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="tkacmatu" targetName="tkacmatu" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1fceed9e-ce0d-4bf6-ad7c-870fe0236fd3" name="Changes" comment="Final commit - All done">
+      <change beforePath="$PROJECT_DIR$/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CApplication.dep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CApplication.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CCommand.dep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CCommand.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CConcat.dep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CConcat.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CCopy.dep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CCopy.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CCreate.dep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CCreate.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CDedup.dep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CDedup.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CDelete.dep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CDelete.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CFile.dep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CFile.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CFolder.dep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CFolder.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CInterface.dep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CInterface.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMove.dep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMove.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/COperation.dep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/COperation.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CRegularFile.dep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CRegularFile.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CSymbolicLink.dep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CSymbolicLink.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/main.dep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/main.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CApplication_8cpp 2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CApplication_8cpp.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/CApplication_8cpp.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CApplication_8cpp__incl 2.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CApplication_8cpp__incl 2.md5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CApplication_8cpp__incl 2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CApplication_8cpp__incl.map" beforeDir="false" afterPath="$PROJECT_DIR$/doc/CApplication_8cpp__incl.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CApplication_8cpp__incl.md5" beforeDir="false" afterPath="$PROJECT_DIR$/doc/CApplication_8cpp__incl.md5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CApplication_8cpp__incl.png" beforeDir="false" afterPath="$PROJECT_DIR$/doc/CApplication_8cpp__incl.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CApplication_8h 2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CApplication_8h.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/CApplication_8h.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CApplication_8h__dep__incl 2.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CApplication_8h__dep__incl 2.md5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CApplication_8h__dep__incl 2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CApplication_8h__dep__incl.map" beforeDir="false" afterPath="$PROJECT_DIR$/doc/CApplication_8h__dep__incl.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CApplication_8h__dep__incl.png" beforeDir="false" afterPath="$PROJECT_DIR$/doc/CApplication_8h__dep__incl.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CApplication_8h__incl 2.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CApplication_8h__incl 2.md5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CApplication_8h__incl 2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CApplication_8h__incl.map" beforeDir="false" afterPath="$PROJECT_DIR$/doc/CApplication_8h__incl.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CApplication_8h__incl.md5" beforeDir="false" afterPath="$PROJECT_DIR$/doc/CApplication_8h__incl.md5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CApplication_8h__incl.png" beforeDir="false" afterPath="$PROJECT_DIR$/doc/CApplication_8h__incl.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CApplication_8h_source 2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CApplication_8h_source.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/CApplication_8h_source.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CCommand_8cpp 2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CCommand_8cpp.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/CCommand_8cpp.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CCommand_8cpp__incl 2.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CCommand_8cpp__incl 2.md5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CCommand_8cpp__incl 2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CCommand_8cpp__incl.map" beforeDir="false" afterPath="$PROJECT_DIR$/doc/CCommand_8cpp__incl.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CCommand_8cpp__incl.png" beforeDir="false" afterPath="$PROJECT_DIR$/doc/CCommand_8cpp__incl.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CCommand_8h 2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CCommand_8h.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/CCommand_8h.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CCommand_8h__dep__incl 2.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CCommand_8h__dep__incl 2.md5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CCommand_8h__dep__incl 2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CCommand_8h__dep__incl.map" beforeDir="false" afterPath="$PROJECT_DIR$/doc/CCommand_8h__dep__incl.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CCommand_8h__dep__incl.png" beforeDir="false" afterPath="$PROJECT_DIR$/doc/CCommand_8h__dep__incl.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CCommand_8h__incl 2.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CCommand_8h__incl 2.md5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CCommand_8h__incl 2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CCommand_8h__incl.map" beforeDir="false" afterPath="$PROJECT_DIR$/doc/CCommand_8h__incl.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CCommand_8h__incl.png" beforeDir="false" afterPath="$PROJECT_DIR$/doc/CCommand_8h__incl.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CCommand_8h_source 2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CCommand_8h_source.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/CCommand_8h_source.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CConcat_8cpp 2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CConcat_8cpp.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/CConcat_8cpp.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CConcat_8cpp__incl 2.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CConcat_8cpp__incl 2.md5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CConcat_8cpp__incl 2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CConcat_8cpp__incl.map" beforeDir="false" afterPath="$PROJECT_DIR$/doc/CConcat_8cpp__incl.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CConcat_8cpp__incl.md5" beforeDir="false" afterPath="$PROJECT_DIR$/doc/CConcat_8cpp__incl.md5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CConcat_8cpp__incl.png" beforeDir="false" afterPath="$PROJECT_DIR$/doc/CConcat_8cpp__incl.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CConcat_8h 2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CConcat_8h.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/CConcat_8h.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CConcat_8h__dep__incl 2.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CConcat_8h__dep__incl 2.md5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CConcat_8h__dep__incl 2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CConcat_8h__dep__incl.map" beforeDir="false" afterPath="$PROJECT_DIR$/doc/CConcat_8h__dep__incl.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CConcat_8h__dep__incl.png" beforeDir="false" afterPath="$PROJECT_DIR$/doc/CConcat_8h__dep__incl.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CConcat_8h__incl 2.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CConcat_8h__incl 2.md5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CConcat_8h__incl 2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CConcat_8h__incl.map" beforeDir="false" afterPath="$PROJECT_DIR$/doc/CConcat_8h__incl.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CConcat_8h__incl.md5" beforeDir="false" afterPath="$PROJECT_DIR$/doc/CConcat_8h__incl.md5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CConcat_8h__incl.png" beforeDir="false" afterPath="$PROJECT_DIR$/doc/CConcat_8h__incl.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CConcat_8h_source 2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CConcat_8h_source.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/CConcat_8h_source.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CCopy_8cpp 2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CCopy_8cpp.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/CCopy_8cpp.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CCopy_8cpp__incl 2.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CCopy_8cpp__incl 2.md5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CCopy_8cpp__incl 2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CCopy_8cpp__incl.map" beforeDir="false" afterPath="$PROJECT_DIR$/doc/CCopy_8cpp__incl.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CCopy_8cpp__incl.md5" beforeDir="false" afterPath="$PROJECT_DIR$/doc/CCopy_8cpp__incl.md5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CCopy_8cpp__incl.png" beforeDir="false" afterPath="$PROJECT_DIR$/doc/CCopy_8cpp__incl.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CCopy_8h 2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CCopy_8h.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/CCopy_8h.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CCopy_8h__dep__incl 2.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CCopy_8h__dep__incl 2.md5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CCopy_8h__dep__incl 2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CCopy_8h__dep__incl.map" beforeDir="false" afterPath="$PROJECT_DIR$/doc/CCopy_8h__dep__incl.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CCopy_8h__dep__incl.png" beforeDir="false" afterPath="$PROJECT_DIR$/doc/CCopy_8h__dep__incl.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CCopy_8h__incl 2.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CCopy_8h__incl 2.md5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CCopy_8h__incl 2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CCopy_8h__incl.map" beforeDir="false" afterPath="$PROJECT_DIR$/doc/CCopy_8h__incl.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CCopy_8h__incl.md5" beforeDir="false" afterPath="$PROJECT_DIR$/doc/CCopy_8h__incl.md5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CCopy_8h__incl.png" beforeDir="false" afterPath="$PROJECT_DIR$/doc/CCopy_8h__incl.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CCopy_8h_source 2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CCopy_8h_source.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/CCopy_8h_source.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CCreate_8cpp 2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CCreate_8cpp.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/CCreate_8cpp.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CCreate_8cpp__incl 2.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CCreate_8cpp__incl 2.md5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CCreate_8cpp__incl 2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CCreate_8cpp__incl.map" beforeDir="false" afterPath="$PROJECT_DIR$/doc/CCreate_8cpp__incl.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CCreate_8cpp__incl.md5" beforeDir="false" afterPath="$PROJECT_DIR$/doc/CCreate_8cpp__incl.md5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CCreate_8cpp__incl.png" beforeDir="false" afterPath="$PROJECT_DIR$/doc/CCreate_8cpp__incl.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CCreate_8h 2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CCreate_8h.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/CCreate_8h.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CCreate_8h__dep__incl 2.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CCreate_8h__dep__incl 2.md5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CCreate_8h__dep__incl 2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CCreate_8h__dep__incl.map" beforeDir="false" afterPath="$PROJECT_DIR$/doc/CCreate_8h__dep__incl.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CCreate_8h__dep__incl.png" beforeDir="false" afterPath="$PROJECT_DIR$/doc/CCreate_8h__dep__incl.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CCreate_8h__incl 2.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CCreate_8h__incl 2.md5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CCreate_8h__incl 2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CCreate_8h__incl.map" beforeDir="false" afterPath="$PROJECT_DIR$/doc/CCreate_8h__incl.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CCreate_8h__incl.md5" beforeDir="false" afterPath="$PROJECT_DIR$/doc/CCreate_8h__incl.md5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CCreate_8h__incl.png" beforeDir="false" afterPath="$PROJECT_DIR$/doc/CCreate_8h__incl.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CCreate_8h_source 2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CCreate_8h_source.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/CCreate_8h_source.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CDedup_8cpp 2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CDedup_8cpp.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/CDedup_8cpp.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CDedup_8cpp__incl 2.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CDedup_8cpp__incl 2.md5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CDedup_8cpp__incl 2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CDedup_8cpp__incl.map" beforeDir="false" afterPath="$PROJECT_DIR$/doc/CDedup_8cpp__incl.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CDedup_8cpp__incl.md5" beforeDir="false" afterPath="$PROJECT_DIR$/doc/CDedup_8cpp__incl.md5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CDedup_8cpp__incl.png" beforeDir="false" afterPath="$PROJECT_DIR$/doc/CDedup_8cpp__incl.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CDedup_8h 2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CDedup_8h.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/CDedup_8h.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CDedup_8h__dep__incl 2.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CDedup_8h__dep__incl 2.md5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CDedup_8h__dep__incl 2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CDedup_8h__dep__incl.map" beforeDir="false" afterPath="$PROJECT_DIR$/doc/CDedup_8h__dep__incl.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CDedup_8h__dep__incl.png" beforeDir="false" afterPath="$PROJECT_DIR$/doc/CDedup_8h__dep__incl.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CDedup_8h__incl 2.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CDedup_8h__incl 2.md5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CDedup_8h__incl 2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CDedup_8h__incl.map" beforeDir="false" afterPath="$PROJECT_DIR$/doc/CDedup_8h__incl.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CDedup_8h__incl.md5" beforeDir="false" afterPath="$PROJECT_DIR$/doc/CDedup_8h__incl.md5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CDedup_8h__incl.png" beforeDir="false" afterPath="$PROJECT_DIR$/doc/CDedup_8h__incl.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CDedup_8h_source 2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CDedup_8h_source.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/CDedup_8h_source.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CDelete_8cpp 2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CDelete_8cpp.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/CDelete_8cpp.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CDelete_8cpp__incl 2.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CDelete_8cpp__incl 2.md5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CDelete_8cpp__incl 2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CDelete_8cpp__incl.map" beforeDir="false" afterPath="$PROJECT_DIR$/doc/CDelete_8cpp__incl.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CDelete_8cpp__incl.md5" beforeDir="false" afterPath="$PROJECT_DIR$/doc/CDelete_8cpp__incl.md5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CDelete_8cpp__incl.png" beforeDir="false" afterPath="$PROJECT_DIR$/doc/CDelete_8cpp__incl.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CDelete_8h 2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CDelete_8h.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/CDelete_8h.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CDelete_8h__dep__incl 2.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CDelete_8h__dep__incl 2.md5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CDelete_8h__dep__incl 2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CDelete_8h__dep__incl.map" beforeDir="false" afterPath="$PROJECT_DIR$/doc/CDelete_8h__dep__incl.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CDelete_8h__dep__incl.png" beforeDir="false" afterPath="$PROJECT_DIR$/doc/CDelete_8h__dep__incl.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CDelete_8h__incl 2.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CDelete_8h__incl 2.md5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CDelete_8h__incl 2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CDelete_8h__incl.map" beforeDir="false" afterPath="$PROJECT_DIR$/doc/CDelete_8h__incl.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CDelete_8h__incl.md5" beforeDir="false" afterPath="$PROJECT_DIR$/doc/CDelete_8h__incl.md5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CDelete_8h__incl.png" beforeDir="false" afterPath="$PROJECT_DIR$/doc/CDelete_8h__incl.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CDelete_8h_source 2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CDelete_8h_source.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/CDelete_8h_source.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CFile_8cpp 2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CFile_8cpp.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/CFile_8cpp.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CFile_8cpp__incl.map" beforeDir="false" afterPath="$PROJECT_DIR$/doc/CFile_8cpp__incl.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CFile_8cpp__incl.md5" beforeDir="false" afterPath="$PROJECT_DIR$/doc/CFile_8cpp__incl.md5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CFile_8cpp__incl.png" beforeDir="false" afterPath="$PROJECT_DIR$/doc/CFile_8cpp__incl.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CFile_8h 2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CFile_8h.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/CFile_8h.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CFile_8h__dep__incl.map" beforeDir="false" afterPath="$PROJECT_DIR$/doc/CFile_8h__dep__incl.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CFile_8h__dep__incl.png" beforeDir="false" afterPath="$PROJECT_DIR$/doc/CFile_8h__dep__incl.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CFile_8h__incl.map" beforeDir="false" afterPath="$PROJECT_DIR$/doc/CFile_8h__incl.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CFile_8h__incl.md5" beforeDir="false" afterPath="$PROJECT_DIR$/doc/CFile_8h__incl.md5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CFile_8h__incl.png" beforeDir="false" afterPath="$PROJECT_DIR$/doc/CFile_8h__incl.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CFile_8h_source 2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CFile_8h_source.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/CFile_8h_source.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CFolder_8cpp 2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CFolder_8cpp.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/CFolder_8cpp.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CFolder_8cpp__incl.map" beforeDir="false" afterPath="$PROJECT_DIR$/doc/CFolder_8cpp__incl.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CFolder_8cpp__incl.md5" beforeDir="false" afterPath="$PROJECT_DIR$/doc/CFolder_8cpp__incl.md5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CFolder_8cpp__incl.png" beforeDir="false" afterPath="$PROJECT_DIR$/doc/CFolder_8cpp__incl.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CFolder_8h 2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CFolder_8h.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/CFolder_8h.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CFolder_8h__dep__incl.map" beforeDir="false" afterPath="$PROJECT_DIR$/doc/CFolder_8h__dep__incl.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CFolder_8h__dep__incl.png" beforeDir="false" afterPath="$PROJECT_DIR$/doc/CFolder_8h__dep__incl.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CFolder_8h__incl.map" beforeDir="false" afterPath="$PROJECT_DIR$/doc/CFolder_8h__incl.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CFolder_8h__incl.md5" beforeDir="false" afterPath="$PROJECT_DIR$/doc/CFolder_8h__incl.md5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CFolder_8h__incl.png" beforeDir="false" afterPath="$PROJECT_DIR$/doc/CFolder_8h__incl.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CFolder_8h_source 2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CFolder_8h_source.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/CFolder_8h_source.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CInterface_8cpp 2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CInterface_8cpp.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/CInterface_8cpp.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CInterface_8cpp__incl.map" beforeDir="false" afterPath="$PROJECT_DIR$/doc/CInterface_8cpp__incl.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CInterface_8cpp__incl.md5" beforeDir="false" afterPath="$PROJECT_DIR$/doc/CInterface_8cpp__incl.md5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CInterface_8cpp__incl.png" beforeDir="false" afterPath="$PROJECT_DIR$/doc/CInterface_8cpp__incl.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CInterface_8h 2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CInterface_8h.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/CInterface_8h.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CInterface_8h__dep__incl.map" beforeDir="false" afterPath="$PROJECT_DIR$/doc/CInterface_8h__dep__incl.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CInterface_8h__dep__incl.png" beforeDir="false" afterPath="$PROJECT_DIR$/doc/CInterface_8h__dep__incl.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CInterface_8h__incl.map" beforeDir="false" afterPath="$PROJECT_DIR$/doc/CInterface_8h__incl.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CInterface_8h__incl.md5" beforeDir="false" afterPath="$PROJECT_DIR$/doc/CInterface_8h__incl.md5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CInterface_8h__incl.png" beforeDir="false" afterPath="$PROJECT_DIR$/doc/CInterface_8h__incl.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CInterface_8h_source 2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CInterface_8h_source.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/CInterface_8h_source.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CMove_8cpp 2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CMove_8cpp.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/CMove_8cpp.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CMove_8cpp__incl.map" beforeDir="false" afterPath="$PROJECT_DIR$/doc/CMove_8cpp__incl.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CMove_8cpp__incl.md5" beforeDir="false" afterPath="$PROJECT_DIR$/doc/CMove_8cpp__incl.md5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CMove_8cpp__incl.png" beforeDir="false" afterPath="$PROJECT_DIR$/doc/CMove_8cpp__incl.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CMove_8h 2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CMove_8h.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/CMove_8h.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CMove_8h__dep__incl.map" beforeDir="false" afterPath="$PROJECT_DIR$/doc/CMove_8h__dep__incl.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CMove_8h__dep__incl.png" beforeDir="false" afterPath="$PROJECT_DIR$/doc/CMove_8h__dep__incl.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CMove_8h__incl.map" beforeDir="false" afterPath="$PROJECT_DIR$/doc/CMove_8h__incl.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CMove_8h__incl.md5" beforeDir="false" afterPath="$PROJECT_DIR$/doc/CMove_8h__incl.md5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CMove_8h__incl.png" beforeDir="false" afterPath="$PROJECT_DIR$/doc/CMove_8h__incl.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CMove_8h_source 2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CMove_8h_source.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/CMove_8h_source.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/COperation_8cpp 2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/COperation_8cpp.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/COperation_8cpp.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/COperation_8cpp__incl.map" beforeDir="false" afterPath="$PROJECT_DIR$/doc/COperation_8cpp__incl.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/COperation_8cpp__incl.md5" beforeDir="false" afterPath="$PROJECT_DIR$/doc/COperation_8cpp__incl.md5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/COperation_8cpp__incl.png" beforeDir="false" afterPath="$PROJECT_DIR$/doc/COperation_8cpp__incl.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/COperation_8h 2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/COperation_8h.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/COperation_8h.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/COperation_8h__dep__incl.map" beforeDir="false" afterPath="$PROJECT_DIR$/doc/COperation_8h__dep__incl.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/COperation_8h__dep__incl.png" beforeDir="false" afterPath="$PROJECT_DIR$/doc/COperation_8h__dep__incl.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/COperation_8h__incl.map" beforeDir="false" afterPath="$PROJECT_DIR$/doc/COperation_8h__incl.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/COperation_8h__incl.md5" beforeDir="false" afterPath="$PROJECT_DIR$/doc/COperation_8h__incl.md5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/COperation_8h__incl.png" beforeDir="false" afterPath="$PROJECT_DIR$/doc/COperation_8h__incl.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/COperation_8h_source 2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/COperation_8h_source.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/COperation_8h_source.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CRegularFile_8cpp 2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CRegularFile_8cpp.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/CRegularFile_8cpp.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CRegularFile_8cpp__incl.map" beforeDir="false" afterPath="$PROJECT_DIR$/doc/CRegularFile_8cpp__incl.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CRegularFile_8cpp__incl.md5" beforeDir="false" afterPath="$PROJECT_DIR$/doc/CRegularFile_8cpp__incl.md5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CRegularFile_8cpp__incl.png" beforeDir="false" afterPath="$PROJECT_DIR$/doc/CRegularFile_8cpp__incl.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CRegularFile_8h 2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CRegularFile_8h.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/CRegularFile_8h.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CRegularFile_8h__dep__incl.map" beforeDir="false" afterPath="$PROJECT_DIR$/doc/CRegularFile_8h__dep__incl.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CRegularFile_8h__dep__incl.png" beforeDir="false" afterPath="$PROJECT_DIR$/doc/CRegularFile_8h__dep__incl.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CRegularFile_8h__incl.map" beforeDir="false" afterPath="$PROJECT_DIR$/doc/CRegularFile_8h__incl.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CRegularFile_8h__incl.md5" beforeDir="false" afterPath="$PROJECT_DIR$/doc/CRegularFile_8h__incl.md5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CRegularFile_8h__incl.png" beforeDir="false" afterPath="$PROJECT_DIR$/doc/CRegularFile_8h__incl.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CRegularFile_8h_source 2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CRegularFile_8h_source.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/CRegularFile_8h_source.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CSymbolicLink_8cpp 2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CSymbolicLink_8cpp.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/CSymbolicLink_8cpp.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CSymbolicLink_8cpp__incl.map" beforeDir="false" afterPath="$PROJECT_DIR$/doc/CSymbolicLink_8cpp__incl.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CSymbolicLink_8cpp__incl.md5" beforeDir="false" afterPath="$PROJECT_DIR$/doc/CSymbolicLink_8cpp__incl.md5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CSymbolicLink_8cpp__incl.png" beforeDir="false" afterPath="$PROJECT_DIR$/doc/CSymbolicLink_8cpp__incl.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CSymbolicLink_8h 2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CSymbolicLink_8h.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/CSymbolicLink_8h.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CSymbolicLink_8h__dep__incl.map" beforeDir="false" afterPath="$PROJECT_DIR$/doc/CSymbolicLink_8h__dep__incl.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CSymbolicLink_8h__dep__incl.png" beforeDir="false" afterPath="$PROJECT_DIR$/doc/CSymbolicLink_8h__dep__incl.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CSymbolicLink_8h__incl.map" beforeDir="false" afterPath="$PROJECT_DIR$/doc/CSymbolicLink_8h__incl.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CSymbolicLink_8h__incl.md5" beforeDir="false" afterPath="$PROJECT_DIR$/doc/CSymbolicLink_8h__incl.md5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CSymbolicLink_8h__incl.png" beforeDir="false" afterPath="$PROJECT_DIR$/doc/CSymbolicLink_8h__incl.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CSymbolicLink_8h_source 2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/CSymbolicLink_8h_source.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/CSymbolicLink_8h_source.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/DOCUMENTATION_8md.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/DOCUMENTATION_8md.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/annotated 2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/annotated.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/annotated.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/bc_s 2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/bc_sd 2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCApplication 2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCApplication-members 2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCApplication-members.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/classCApplication-members.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCApplication.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/classCApplication.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCApplication__coll__graph.png" beforeDir="false" afterPath="$PROJECT_DIR$/doc/classCApplication__coll__graph.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCApplication_a06080de2f559086adb8b498e3c1312b9_icgraph.map" beforeDir="false" afterPath="$PROJECT_DIR$/doc/classCApplication_a06080de2f559086adb8b498e3c1312b9_icgraph.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCApplication_a06080de2f559086adb8b498e3c1312b9_icgraph.png" beforeDir="false" afterPath="$PROJECT_DIR$/doc/classCApplication_a06080de2f559086adb8b498e3c1312b9_icgraph.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCApplication_a4f56f6580d7373f30acd98c5f58f26f1_cgraph.map" beforeDir="false" afterPath="$PROJECT_DIR$/doc/classCApplication_a4f56f6580d7373f30acd98c5f58f26f1_cgraph.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCApplication_a4f56f6580d7373f30acd98c5f58f26f1_cgraph.png" beforeDir="false" afterPath="$PROJECT_DIR$/doc/classCApplication_a4f56f6580d7373f30acd98c5f58f26f1_cgraph.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCApplication_a4f56f6580d7373f30acd98c5f58f26f1_icgraph.map" beforeDir="false" afterPath="$PROJECT_DIR$/doc/classCApplication_a4f56f6580d7373f30acd98c5f58f26f1_icgraph.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCApplication_a4f56f6580d7373f30acd98c5f58f26f1_icgraph.png" beforeDir="false" afterPath="$PROJECT_DIR$/doc/classCApplication_a4f56f6580d7373f30acd98c5f58f26f1_icgraph.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCApplication_a638e5fe2079ec446bf5f843f46243d8c_cgraph.map" beforeDir="false" afterPath="$PROJECT_DIR$/doc/classCApplication_a638e5fe2079ec446bf5f843f46243d8c_cgraph.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCApplication_a638e5fe2079ec446bf5f843f46243d8c_cgraph.png" beforeDir="false" afterPath="$PROJECT_DIR$/doc/classCApplication_a638e5fe2079ec446bf5f843f46243d8c_cgraph.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCApplication_a676c19953ef58a4d991e6d9c69525fa4_cgraph.map" beforeDir="false" afterPath="$PROJECT_DIR$/doc/classCApplication_a676c19953ef58a4d991e6d9c69525fa4_cgraph.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCApplication_a676c19953ef58a4d991e6d9c69525fa4_cgraph.png" beforeDir="false" afterPath="$PROJECT_DIR$/doc/classCApplication_a676c19953ef58a4d991e6d9c69525fa4_cgraph.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCApplication_aa2c9d322b2d3070b66028ad84a8cbacd_cgraph.map" beforeDir="false" afterPath="$PROJECT_DIR$/doc/classCApplication_aa2c9d322b2d3070b66028ad84a8cbacd_cgraph.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCApplication_aa2c9d322b2d3070b66028ad84a8cbacd_cgraph.png" beforeDir="false" afterPath="$PROJECT_DIR$/doc/classCApplication_aa2c9d322b2d3070b66028ad84a8cbacd_cgraph.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCApplication_ad03dd3566022522960ffe688a56bd46f_icgraph.map" beforeDir="false" afterPath="$PROJECT_DIR$/doc/classCApplication_ad03dd3566022522960ffe688a56bd46f_icgraph.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCApplication_ad03dd3566022522960ffe688a56bd46f_icgraph.png" beforeDir="false" afterPath="$PROJECT_DIR$/doc/classCApplication_ad03dd3566022522960ffe688a56bd46f_icgraph.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCApplication_ad689b8026b1a85c47401278f7f601d04_cgraph.map" beforeDir="false" afterPath="$PROJECT_DIR$/doc/classCApplication_ad689b8026b1a85c47401278f7f601d04_cgraph.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCApplication_ad689b8026b1a85c47401278f7f601d04_cgraph.png" beforeDir="false" afterPath="$PROJECT_DIR$/doc/classCApplication_ad689b8026b1a85c47401278f7f601d04_cgraph.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCApplication_aeb7ff3128e0c684d3d7b3f48079a04ef_cgraph.map" beforeDir="false" afterPath="$PROJECT_DIR$/doc/classCApplication_aeb7ff3128e0c684d3d7b3f48079a04ef_cgraph.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCApplication_aeb7ff3128e0c684d3d7b3f48079a04ef_cgraph.png" beforeDir="false" afterPath="$PROJECT_DIR$/doc/classCApplication_aeb7ff3128e0c684d3d7b3f48079a04ef_cgraph.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCApplication_aeb7ff3128e0c684d3d7b3f48079a04ef_icgraph.map" beforeDir="false" afterPath="$PROJECT_DIR$/doc/classCApplication_aeb7ff3128e0c684d3d7b3f48079a04ef_icgraph.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCApplication_aeb7ff3128e0c684d3d7b3f48079a04ef_icgraph.png" beforeDir="false" afterPath="$PROJECT_DIR$/doc/classCApplication_aeb7ff3128e0c684d3d7b3f48079a04ef_icgraph.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCCommand 2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCCommand-members 2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCCommand-members.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/classCCommand-members.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCCommand.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/classCCommand.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCCommand__coll__graph.png" beforeDir="false" afterPath="$PROJECT_DIR$/doc/classCCommand__coll__graph.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCConcat 2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCConcat-members 2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCConcat-members.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/classCConcat-members.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCConcat.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/classCConcat.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCConcat__coll__graph.map" beforeDir="false" afterPath="$PROJECT_DIR$/doc/classCConcat__coll__graph.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCConcat__coll__graph.png" beforeDir="false" afterPath="$PROJECT_DIR$/doc/classCConcat__coll__graph.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCConcat__inherit__graph.map" beforeDir="false" afterPath="$PROJECT_DIR$/doc/classCConcat__inherit__graph.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCConcat__inherit__graph.png" beforeDir="false" afterPath="$PROJECT_DIR$/doc/classCConcat__inherit__graph.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCCopy 2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCCopy-members 2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCCopy-members.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/classCCopy-members.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCCopy.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/classCCopy.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCCopy__coll__graph.map" beforeDir="false" afterPath="$PROJECT_DIR$/doc/classCCopy__coll__graph.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCCopy__coll__graph.md5" beforeDir="false" afterPath="$PROJECT_DIR$/doc/classCCopy__coll__graph.md5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCCopy__coll__graph.png" beforeDir="false" afterPath="$PROJECT_DIR$/doc/classCCopy__coll__graph.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCCopy__inherit__graph.map" beforeDir="false" afterPath="$PROJECT_DIR$/doc/classCCopy__inherit__graph.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCCopy__inherit__graph.md5" beforeDir="false" afterPath="$PROJECT_DIR$/doc/classCCopy__inherit__graph.md5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCCopy__inherit__graph.png" beforeDir="false" afterPath="$PROJECT_DIR$/doc/classCCopy__inherit__graph.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCCreate 2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCCreate-members 2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCCreate-members.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/classCCreate-members.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCCreate.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/classCCreate.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCCreate__coll__graph.map" beforeDir="false" afterPath="$PROJECT_DIR$/doc/classCCreate__coll__graph.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCCreate__coll__graph.png" beforeDir="false" afterPath="$PROJECT_DIR$/doc/classCCreate__coll__graph.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCCreate__inherit__graph.map" beforeDir="false" afterPath="$PROJECT_DIR$/doc/classCCreate__inherit__graph.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCCreate__inherit__graph.png" beforeDir="false" afterPath="$PROJECT_DIR$/doc/classCCreate__inherit__graph.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCDedup 2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCDedup-members 2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCDedup-members.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/classCDedup-members.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCDedup.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/classCDedup.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCDedup__coll__graph.map" beforeDir="false" afterPath="$PROJECT_DIR$/doc/classCDedup__coll__graph.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCDedup__coll__graph.png" beforeDir="false" afterPath="$PROJECT_DIR$/doc/classCDedup__coll__graph.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCDedup__inherit__graph.map" beforeDir="false" afterPath="$PROJECT_DIR$/doc/classCDedup__inherit__graph.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCDedup__inherit__graph.png" beforeDir="false" afterPath="$PROJECT_DIR$/doc/classCDedup__inherit__graph.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCDelete 2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCDelete-members 2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCDelete-members.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/classCDelete-members.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCDelete.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/classCDelete.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCDelete__coll__graph.map" beforeDir="false" afterPath="$PROJECT_DIR$/doc/classCDelete__coll__graph.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCDelete__coll__graph.png" beforeDir="false" afterPath="$PROJECT_DIR$/doc/classCDelete__coll__graph.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCDelete__inherit__graph.map" beforeDir="false" afterPath="$PROJECT_DIR$/doc/classCDelete__inherit__graph.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCDelete__inherit__graph.png" beforeDir="false" afterPath="$PROJECT_DIR$/doc/classCDelete__inherit__graph.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCFile 2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCFile-members 2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCFile-members.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/classCFile-members.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCFile.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/classCFile.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCFile__coll__graph.png" beforeDir="false" afterPath="$PROJECT_DIR$/doc/classCFile__coll__graph.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCFile__inherit__graph.map" beforeDir="false" afterPath="$PROJECT_DIR$/doc/classCFile__inherit__graph.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCFile__inherit__graph.png" beforeDir="false" afterPath="$PROJECT_DIR$/doc/classCFile__inherit__graph.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCFile_a139fbf50176aa10b220229fd111da496_icgraph.map" beforeDir="false" afterPath="$PROJECT_DIR$/doc/classCFile_a139fbf50176aa10b220229fd111da496_icgraph.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCFile_a139fbf50176aa10b220229fd111da496_icgraph.png" beforeDir="false" afterPath="$PROJECT_DIR$/doc/classCFile_a139fbf50176aa10b220229fd111da496_icgraph.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCFile_aaf2307588ef003dd8c634acead41c0b7_icgraph.map" beforeDir="false" afterPath="$PROJECT_DIR$/doc/classCFile_aaf2307588ef003dd8c634acead41c0b7_icgraph.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCFile_aaf2307588ef003dd8c634acead41c0b7_icgraph.png" beforeDir="false" afterPath="$PROJECT_DIR$/doc/classCFile_aaf2307588ef003dd8c634acead41c0b7_icgraph.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCFolder 2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCFolder-members 2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCFolder-members.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/classCFolder-members.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCFolder.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/classCFolder.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCFolder__coll__graph.png" beforeDir="false" afterPath="$PROJECT_DIR$/doc/classCFolder__coll__graph.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCFolder__inherit__graph.png" beforeDir="false" afterPath="$PROJECT_DIR$/doc/classCFolder__inherit__graph.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCInterface 2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCInterface-members 2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCInterface-members.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/classCInterface-members.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCInterface.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/classCInterface.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCInterface__coll__graph.png" beforeDir="false" afterPath="$PROJECT_DIR$/doc/classCInterface__coll__graph.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCInterface_a2797be4778a6fc23775d134ae91fbdde_icgraph.map" beforeDir="false" afterPath="$PROJECT_DIR$/doc/classCInterface_a2797be4778a6fc23775d134ae91fbdde_icgraph.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCInterface_a2797be4778a6fc23775d134ae91fbdde_icgraph.png" beforeDir="false" afterPath="$PROJECT_DIR$/doc/classCInterface_a2797be4778a6fc23775d134ae91fbdde_icgraph.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCInterface_a3aac892b983f190a953ab520ba1a8d61_cgraph.map" beforeDir="false" afterPath="$PROJECT_DIR$/doc/classCInterface_a3aac892b983f190a953ab520ba1a8d61_cgraph.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCInterface_a3aac892b983f190a953ab520ba1a8d61_cgraph.png" beforeDir="false" afterPath="$PROJECT_DIR$/doc/classCInterface_a3aac892b983f190a953ab520ba1a8d61_cgraph.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCInterface_a3aac892b983f190a953ab520ba1a8d61_icgraph 2.md5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCInterface_a3aac892b983f190a953ab520ba1a8d61_icgraph.map" beforeDir="false" afterPath="$PROJECT_DIR$/doc/classCInterface_a3aac892b983f190a953ab520ba1a8d61_icgraph.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCInterface_a3aac892b983f190a953ab520ba1a8d61_icgraph.png" beforeDir="false" afterPath="$PROJECT_DIR$/doc/classCInterface_a3aac892b983f190a953ab520ba1a8d61_icgraph.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCInterface_a8407d8723008815f30163c2a7f1f80cf_icgraph 2.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCInterface_a8407d8723008815f30163c2a7f1f80cf_icgraph 2.md5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCInterface_a8407d8723008815f30163c2a7f1f80cf_icgraph 2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCInterface_a8407d8723008815f30163c2a7f1f80cf_icgraph.map" beforeDir="false" afterPath="$PROJECT_DIR$/doc/classCInterface_a8407d8723008815f30163c2a7f1f80cf_icgraph.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCInterface_a8407d8723008815f30163c2a7f1f80cf_icgraph.png" beforeDir="false" afterPath="$PROJECT_DIR$/doc/classCInterface_a8407d8723008815f30163c2a7f1f80cf_icgraph.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCInterface_aaaaa599f5eb96ab8311903088a71e00a_cgraph 2.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCInterface_aaaaa599f5eb96ab8311903088a71e00a_cgraph 2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCInterface_aaaaa599f5eb96ab8311903088a71e00a_cgraph.map" beforeDir="false" afterPath="$PROJECT_DIR$/doc/classCInterface_aaaaa599f5eb96ab8311903088a71e00a_cgraph.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCInterface_aaaaa599f5eb96ab8311903088a71e00a_cgraph.png" beforeDir="false" afterPath="$PROJECT_DIR$/doc/classCInterface_aaaaa599f5eb96ab8311903088a71e00a_cgraph.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCInterface_aaaaa599f5eb96ab8311903088a71e00a_icgraph 2.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCInterface_aaaaa599f5eb96ab8311903088a71e00a_icgraph 2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCInterface_aaaaa599f5eb96ab8311903088a71e00a_icgraph.map" beforeDir="false" afterPath="$PROJECT_DIR$/doc/classCInterface_aaaaa599f5eb96ab8311903088a71e00a_icgraph.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCInterface_aaaaa599f5eb96ab8311903088a71e00a_icgraph.png" beforeDir="false" afterPath="$PROJECT_DIR$/doc/classCInterface_aaaaa599f5eb96ab8311903088a71e00a_icgraph.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCInterface_af28e0475a7df61da39d0f67849936058_icgraph 2.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCInterface_af28e0475a7df61da39d0f67849936058_icgraph 2.md5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCInterface_af28e0475a7df61da39d0f67849936058_icgraph 2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCInterface_af28e0475a7df61da39d0f67849936058_icgraph.map" beforeDir="false" afterPath="$PROJECT_DIR$/doc/classCInterface_af28e0475a7df61da39d0f67849936058_icgraph.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCInterface_af28e0475a7df61da39d0f67849936058_icgraph.png" beforeDir="false" afterPath="$PROJECT_DIR$/doc/classCInterface_af28e0475a7df61da39d0f67849936058_icgraph.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCMove 2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCMove-members 2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCMove-members.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/classCMove-members.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCMove.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/classCMove.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCMove__coll__graph 2.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCMove__coll__graph 2.md5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCMove__coll__graph 2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCMove__coll__graph.map" beforeDir="false" afterPath="$PROJECT_DIR$/doc/classCMove__coll__graph.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCMove__coll__graph.png" beforeDir="false" afterPath="$PROJECT_DIR$/doc/classCMove__coll__graph.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCMove__inherit__graph 2.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCMove__inherit__graph 2.md5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCMove__inherit__graph 2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCMove__inherit__graph.map" beforeDir="false" afterPath="$PROJECT_DIR$/doc/classCMove__inherit__graph.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCMove__inherit__graph.png" beforeDir="false" afterPath="$PROJECT_DIR$/doc/classCMove__inherit__graph.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCOperation 2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCOperation-members 2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCOperation-members.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/classCOperation-members.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCOperation.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/classCOperation.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCOperation__coll__graph 2.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCOperation__coll__graph 2.md5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCOperation__coll__graph 2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCOperation__coll__graph.png" beforeDir="false" afterPath="$PROJECT_DIR$/doc/classCOperation__coll__graph.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCOperation__inherit__graph 2.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCOperation__inherit__graph 2.md5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCOperation__inherit__graph 2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCOperation__inherit__graph.map" beforeDir="false" afterPath="$PROJECT_DIR$/doc/classCOperation__inherit__graph.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCOperation__inherit__graph.md5" beforeDir="false" afterPath="$PROJECT_DIR$/doc/classCOperation__inherit__graph.md5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCOperation__inherit__graph.png" beforeDir="false" afterPath="$PROJECT_DIR$/doc/classCOperation__inherit__graph.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCRegularFile 2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCRegularFile-members 2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCRegularFile-members.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/classCRegularFile-members.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCRegularFile.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/classCRegularFile.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCRegularFile__coll__graph 2.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCRegularFile__coll__graph 2.md5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCRegularFile__coll__graph 2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCRegularFile__coll__graph.png" beforeDir="false" afterPath="$PROJECT_DIR$/doc/classCRegularFile__coll__graph.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCRegularFile__inherit__graph 2.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCRegularFile__inherit__graph 2.md5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCRegularFile__inherit__graph 2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCRegularFile__inherit__graph.png" beforeDir="false" afterPath="$PROJECT_DIR$/doc/classCRegularFile__inherit__graph.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCSymbolicLink 2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCSymbolicLink-members 2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCSymbolicLink-members.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/classCSymbolicLink-members.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCSymbolicLink.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/classCSymbolicLink.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCSymbolicLink__coll__graph 2.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCSymbolicLink__coll__graph 2.md5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCSymbolicLink__coll__graph 2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCSymbolicLink__coll__graph.png" beforeDir="false" afterPath="$PROJECT_DIR$/doc/classCSymbolicLink__coll__graph.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCSymbolicLink__inherit__graph 2.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCSymbolicLink__inherit__graph 2.md5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCSymbolicLink__inherit__graph 2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classCSymbolicLink__inherit__graph.png" beforeDir="false" afterPath="$PROJECT_DIR$/doc/classCSymbolicLink__inherit__graph.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classes 2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/classes.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/classes.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/closed 2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/dir_34e9a5f624ac092a9ae2401c28d616d7.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/dir_34e9a5f624ac092a9ae2401c28d616d7.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/dir_68267d1309a1af8e8297ef4c3efbcdba 2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/dir_68267d1309a1af8e8297ef4c3efbcdba.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/dir_68267d1309a1af8e8297ef4c3efbcdba.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/doc 2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/docd 2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/doxygen 2.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/doxygen 2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/doxygen.css" beforeDir="false" afterPath="$PROJECT_DIR$/doc/doxygen.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/dynsections 2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/dynsections.js" beforeDir="false" afterPath="$PROJECT_DIR$/doc/dynsections.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/files 2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/files.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/files.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/folderclosed 2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/folderclosedd 2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/folderopen 2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/folderopend 2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/functions 2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/functions.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/functions.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/functions_func 2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/functions_func.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/functions_func.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/functions_vars 2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/functions_vars.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/functions_vars.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/globals 2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/globals.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/globals.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/globals_defs 2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/globals_defs.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/globals_defs.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/globals_func 2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/globals_func.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/globals_func.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/graph_legend 2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/graph_legend 2.md5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/graph_legend 2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/graph_legend.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/graph_legend.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/graph_legend.png" beforeDir="false" afterPath="$PROJECT_DIR$/doc/graph_legend.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/hierarchy 2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/hierarchy.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/hierarchy.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/index 2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/inherit_graph_0 2.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/inherit_graph_0 2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/inherit_graph_0 3.md5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/inherit_graph_1 2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/inherit_graph_2.map" beforeDir="false" afterPath="$PROJECT_DIR$/doc/inherit_graph_2.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/inherit_graph_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/doc/inherit_graph_2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/inherit_graph_4.map" beforeDir="false" afterPath="$PROJECT_DIR$/doc/inherit_graph_4.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/inherit_graph_4.md5" beforeDir="false" afterPath="$PROJECT_DIR$/doc/inherit_graph_4.md5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/inherit_graph_4.png" beforeDir="false" afterPath="$PROJECT_DIR$/doc/inherit_graph_4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/inherits 2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/inherits.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/inherits.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/jquery 2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/main_8cpp 2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/main_8cpp.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/main_8cpp.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/main_8cpp__incl.map" beforeDir="false" afterPath="$PROJECT_DIR$/doc/main_8cpp__incl.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/main_8cpp__incl.md5" beforeDir="false" afterPath="$PROJECT_DIR$/doc/main_8cpp__incl.md5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/main_8cpp__incl.png" beforeDir="false" afterPath="$PROJECT_DIR$/doc/main_8cpp__incl.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/main_8cpp_ae66f6b31b5ad750f1fe042a706a4e3d4_cgraph.map" beforeDir="false" afterPath="$PROJECT_DIR$/doc/main_8cpp_ae66f6b31b5ad750f1fe042a706a4e3d4_cgraph.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/main_8cpp_ae66f6b31b5ad750f1fe042a706a4e3d4_cgraph.png" beforeDir="false" afterPath="$PROJECT_DIR$/doc/main_8cpp_ae66f6b31b5ad750f1fe042a706a4e3d4_cgraph.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/menu 2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/menu.js" beforeDir="false" afterPath="$PROJECT_DIR$/doc/menu.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/menudata 2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/nav_f 2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/nav_fd 2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/nav_g 2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/nav_h 2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/nav_hd 2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/open 2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/search/all_0 3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/search/all_1 3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/search/all_1.js" beforeDir="false" afterPath="$PROJECT_DIR$/doc/search/all_1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/search/all_2 3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/search/all_3 3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/search/all_4 3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/search/all_5 3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/search/all_6 3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/search/all_7 3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/search/all_8 3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/search/all_9 3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/search/all_a 3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/search/all_b 3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/search/all_c 3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/search/all_d 3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/search/all_e 3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/search/all_f 3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/search/classes_0 3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/search/close 3.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/search/defines_0 3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/search/defines_1 3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/search/defines_2 3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/search/files_0 3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/search/files_1 3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/search/functions_0 3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/search/functions_1 3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/search/functions_2 3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/search/functions_3 3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/search/functions_4 3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/search/functions_5 3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/search/functions_6 3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/search/functions_7 3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/search/functions_8 3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/search/functions_9 3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/search/functions_a 3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/search/functions_b 3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/search/functions_c 3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/search/functions_d 3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/search/mag 3.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/search/mag_d 3.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/search/mag_sel 3.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/search/mag_seld 3.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/search/search 3.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/search/search 3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/search/search.js" beforeDir="false" afterPath="$PROJECT_DIR$/doc/search/search.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/search/searchdata 3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/search/variables_0 3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/search/variables_1 3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/splitbar 2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/splitbard 2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/sync_off 2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/sync_on 2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/tab_a 2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/tab_ad 2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/tab_b 2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/tab_bd 2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/tab_h 2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/tab_hd 2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/tab_s 2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/tab_sd 2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/tabs 2.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/tabs.css" beforeDir="false" afterPath="$PROJECT_DIR$/doc/tabs.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CApplication.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/CApplication.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CCreate.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/CCreate.cpp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/CApplication.cpp" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2023" />
+    <option name="minorVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2QhQBPLwRrvIc20Baqjo0oUxESJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;CMake Application.tkacmatu.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/matustkac/Desktop/TERM4/BI-PA2/tkacmatu/tkacmatu&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;structure.view.defaults.are.configured&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;Makefile&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/cmake-build-debug" />
+      <recent name="$PROJECT_DIR$/assets" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/Files" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="tkacmatu" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tkacmatu" TARGET_NAME="tkacmatu" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tkacmatu" RUN_TARGET_NAME="tkacmatu">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1fceed9e-ce0d-4bf6-ad7c-870fe0236fd3" name="Changes" comment="" />
+      <created>1685803196909</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1685803196909</updated>
+      <workItem from="1685803199437" duration="6453000" />
+      <workItem from="1685811274455" duration="73989000" />
+      <workItem from="1686339241577" duration="107976000" />
+      <workItem from="1686551072956" duration="8285000" />
+      <workItem from="1687377420986" duration="19000" />
+      <workItem from="1711011145970" duration="1542000" />
+      <workItem from="1713963992495" duration="3132000" />
+      <workItem from="1716192922950" duration="2714000" />
+      <workItem from="1716198065071" duration="1293000" />
+      <workItem from="1716200334232" duration="5612000" />
+      <workItem from="1716237399369" duration="411000" />
+    </task>
+    <task id="LOCAL-00001" summary="Alright, the polymorphism is now way better. I have 2 actually, one is for files and another one is for operations. No real implementation yet but the project is starting to make sense. :)">
+      <created>1685912643176</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1685912643176</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Alright, the polymorphism is now way better. I have 2 actually, one is for files and another one is for operations. No real implementation yet but the project is starting to make sense. :)">
+      <created>1685912702118</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1685912702118</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Alright, the input is already taken care of, now I just need to add a way to connect command registered to command execution and then I can go straight to command implementation">
+      <created>1686260424062</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1686260424062</updated>
+    </task>
+    <task id="LOCAL-00004" summary="finally at least a part of the command execution works... still enormous work ahead of me but I think there is a chance I can pull this off">
+      <created>1686338207041</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1686338207041</updated>
+    </task>
+    <task id="LOCAL-00005" summary="basic commands work, stuck at passing CFile vector that holds all Files in the current directory.">
+      <created>1686426496178</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1686426496178</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Nice one!, create works, 'only' left are finders, move, copy, delete, concat, dedup and last but not least REGEX. I think I can pull this one off ;) Gn">
+      <created>1686440447540</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1686440447540</updated>
+    </task>
+    <task id="LOCAL-00007" summary="CMove, CCopy, CDelete works">
+      <created>1686476489198</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1686476489198</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Dedup and Regex missing, with dedup I am a little bit on the fence of how to do it or what do they want from me but on the other hand I strongly believe that regex should not be a big problem, fingers crossed :)">
+      <created>1686489965977</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1686489965977</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Fylo app is finished, how time for documentation, makefile and tests">
+      <created>1686505199608</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1686505199608</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Final commit - All done">
+      <created>1686555911232</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1686555911233</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VCPKGProject">
+    <isAutomaticCheckingOnLaunch value="false" />
+    <isAutomaticFoundErrors value="true" />
+    <isAutomaticReloadCMake value="true" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Alright, the polymorphism is now way better. I have 2 actually, one is for files and another one is for operations. No real implementation yet but the project is starting to make sense. :)" />
+    <MESSAGE value="Alright, the input is already taken care of, now I just need to add a way to connect command registered to command execution and then I can go straight to command implementation" />
+    <MESSAGE value="finally at least a part of the command execution works... still enormous work ahead of me but I think there is a chance I can pull this off" />
+    <MESSAGE value="basic commands work, stuck at passing CFile vector that holds all Files in the current directory." />
+    <MESSAGE value="Nice one!, create works, 'only' left are finders, move, copy, delete, concat, dedup and last but not least REGEX. I think I can pull this one off ;) Gn" />
+    <MESSAGE value="CMove, CCopy, CDelete works" />
+    <MESSAGE value="Dedup and Regex missing, with dedup I am a little bit on the fence of how to do it or what do they want from me but on the other hand I strongly believe that regex should not be a big problem, fingers crossed :)" />
+    <MESSAGE value="Fylo app is finished, how time for documentation, makefile and tests" />
+    <MESSAGE value="Final commit - All done" />
+    <option name="LAST_COMMIT_MESSAGE" value="Final commit - All done" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/src/CDedup.h</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/src/CApplication.cpp</url>
+          <line>250</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

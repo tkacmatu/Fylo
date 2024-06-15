@@ -1,0 +1,3 @@
+build/CInterface.o: src/CInterface.cpp src/CInterface.h src/CCommand.h \
+  src/CRegularFile.h src/CFile.h src/COperation.h src/CFolder.h \
+  src/CSymbolicLink.h

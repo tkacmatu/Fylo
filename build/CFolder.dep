@@ -1,0 +1,2 @@
+build/CFolder.o: src/CFolder.cpp src/CFolder.h src/CFile.h \
+  src/COperation.h

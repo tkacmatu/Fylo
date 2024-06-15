@@ -1,0 +1,4 @@
+build/main.o: src/main.cpp src/CApplication.h src/CCommand.h \
+  src/CInterface.h src/CRegularFile.h src/CFile.h src/COperation.h \
+  src/CFolder.h src/CSymbolicLink.h src/CConcat.h src/CCopy.h \
+  src/CCreate.h src/CDedup.h src/CDelete.h src/CMove.h

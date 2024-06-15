@@ -1,0 +1,2 @@
+build/CCopy.o: src/CCopy.cpp src/CCopy.h src/COperation.h \
+  src/CRegularFile.h src/CFile.h src/CFolder.h src/CSymbolicLink.h

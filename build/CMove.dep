@@ -1,0 +1,1 @@
+build/CMove.o: src/CMove.cpp src/CMove.h src/COperation.h src/CFile.h

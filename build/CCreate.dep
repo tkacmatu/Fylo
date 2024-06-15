@@ -1,0 +1,1 @@
+build/CCreate.o: src/CCreate.cpp src/CCreate.h src/COperation.h

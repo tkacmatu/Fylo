@@ -1,0 +1,1 @@
+build/CCommand.o: src/CCommand.cpp src/CCommand.h

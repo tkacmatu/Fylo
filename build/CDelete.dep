@@ -1,0 +1,2 @@
+build/CDelete.o: src/CDelete.cpp src/CDelete.h src/COperation.h \
+  src/CFile.h

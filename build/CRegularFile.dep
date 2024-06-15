@@ -1,0 +1,2 @@
+build/CRegularFile.o: src/CRegularFile.cpp src/CRegularFile.h src/CFile.h \
+  src/COperation.h

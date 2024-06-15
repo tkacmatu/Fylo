@@ -1,0 +1,2 @@
+build/CSymbolicLink.o: src/CSymbolicLink.cpp src/CSymbolicLink.h \
+  src/CFile.h src/COperation.h
